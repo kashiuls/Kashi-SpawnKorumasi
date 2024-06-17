@@ -1,0 +1,15 @@
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Kashi-SpawnKorumasi.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Kashi-SpawnKorumasi.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Assembly-CSharp.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Rocket.API.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Rocket.Core.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\Rocket.Unturned.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\bin\Debug\UnityEngine.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\obj\Debug\Kashi-SpawnKorumasi.csproj.AssemblyReference.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\obj\Debug\Kashi-SpawnKorumasi.csproj.CoreCompileInputs.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\obj\Debug\Kashi-Sp.F770CA0E.Up2Date
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\obj\Debug\Kashi-SpawnKorumasi.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-SpawnKorumasi\Kashi-SpawnKorumasi\obj\Debug\Kashi-SpawnKorumasi.pdb
